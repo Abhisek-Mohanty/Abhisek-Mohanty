@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhisek Mohanty</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🙏</h3>
 
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+
+
 
 - 🌱 I’m currently learning **Full Stack Development**
 
@@ -10,7 +13,7 @@
 
 - 📝 I write articles on [www.linkedin.com/in/abhisek-mohanty-81a8a016a](www.linkedin.com/in/abhisek-mohanty-81a8a016a)
 
-- 💬 Ask me about **ReactJs Java JavaScript**
+- 💬 Ask me about **ReactJs Java JavaScript** ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 - 📫 How to reach me **abhisekm048@gmail.com**
 
@@ -32,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisek-mohanty&show_icons=true&locale=en" alt="abhisek-mohanty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek-mohanty&" alt="abhisek-mohanty" /></p>
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
